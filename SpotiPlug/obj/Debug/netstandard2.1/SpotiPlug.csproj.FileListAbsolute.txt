@@ -1,0 +1,9 @@
+C:\Users\szymon.bogus\source\repos\SpotiPlug\SpotiPlug\bin\Debug\netstandard2.1\SpotiPlug.deps.json
+C:\Users\szymon.bogus\source\repos\SpotiPlug\SpotiPlug\bin\Debug\netstandard2.1\SpotiPlug.dll
+C:\Users\szymon.bogus\source\repos\SpotiPlug\SpotiPlug\bin\Debug\netstandard2.1\SpotiPlug.pdb
+C:\Users\szymon.bogus\source\repos\SpotiPlug\SpotiPlug\obj\Debug\netstandard2.1\SpotiPlug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szymon.bogus\source\repos\SpotiPlug\SpotiPlug\obj\Debug\netstandard2.1\SpotiPlug.AssemblyInfoInputs.cache
+C:\Users\szymon.bogus\source\repos\SpotiPlug\SpotiPlug\obj\Debug\netstandard2.1\SpotiPlug.AssemblyInfo.cs
+C:\Users\szymon.bogus\source\repos\SpotiPlug\SpotiPlug\obj\Debug\netstandard2.1\SpotiPlug.csproj.CoreCompileInputs.cache
+C:\Users\szymon.bogus\source\repos\SpotiPlug\SpotiPlug\obj\Debug\netstandard2.1\SpotiPlug.dll
+C:\Users\szymon.bogus\source\repos\SpotiPlug\SpotiPlug\obj\Debug\netstandard2.1\SpotiPlug.pdb

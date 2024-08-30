@@ -1,0 +1,6 @@
+C:\Users\szymon.bogus\source\repos\SpotiPlug\SpotiPlug\bin\Debug\SpotiPlug.dll
+C:\Users\szymon.bogus\source\repos\SpotiPlug\SpotiPlug\bin\Debug\SpotiPlug.pdb
+C:\Users\szymon.bogus\source\repos\SpotiPlug\SpotiPlug\obj\Debug\SpotiPlug.csproj.AssemblyReference.cache
+C:\Users\szymon.bogus\source\repos\SpotiPlug\SpotiPlug\obj\Debug\SpotiPlug.csproj.CoreCompileInputs.cache
+C:\Users\szymon.bogus\source\repos\SpotiPlug\SpotiPlug\obj\Debug\SpotiPlug.dll
+C:\Users\szymon.bogus\source\repos\SpotiPlug\SpotiPlug\obj\Debug\SpotiPlug.pdb
